@@ -28,7 +28,7 @@ Projeto com o codinome *All For One* em que pratiquei todos os conceitos de SQL,
     - Atualizar dados em tabelas com `UPDATE`
     - Apagar dados em tabelas com `DELETE`
 
-Acessando o repositório:
+## Acessando o repositório:
 1. Clone o repositório
   * `git clone git@github.com:analuisams99/project-mysql-all-for-one.git`.
   * Entre na pasta do repositório que você acabou de clonar:
